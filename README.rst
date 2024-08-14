@@ -108,4 +108,3 @@ S3TEST_CONF=your.conf tox -- s3tests_boto3/functional/test_iam.py -m 'not fails_
 
 By following the instructions provided in this document, you can thoroughly test the compatibility and functionality of your S3-like API, ensuring that it meets the necessary standards and behaves as expected across different scenarios.
 
----
